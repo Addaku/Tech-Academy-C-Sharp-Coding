@@ -1,0 +1,4 @@
+C:\Users\Addak\source\repos\BlackJack\Casino\obj\Debug\netstandard2.0\Casino.csprojAssemblyReference.cache
+C:\Users\Addak\source\repos\BlackJack\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Addak\source\repos\BlackJack\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Addak\source\repos\BlackJack\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
